@@ -30,7 +30,7 @@ Nf-core is a community effort to collect a curated set of analysis pipelines bui
 </table>
 <br>
 
-A .csv example can be found here: [Example_samplesheet](../files/Example_samplesheet.csv)
+A .csv example can be found here: [Example_samplesheet](files/Example_samplesheet.csv)
 
 # Setting up job
 
@@ -43,7 +43,7 @@ A .csv example can be found here: [Example_samplesheet](../files/Example_samples
 **Folder for output** – example:    /Member Files: PeterRolandSørensen#6411/output
 
 ## Example of folders to use
-![Example of Additional Parameters.](../images/folders_to_use.png)
+![Example of Additional Parameters.](images/folders_to_use.png)
 
 
 
@@ -81,7 +81,7 @@ A .csv example can be found here: [Example_samplesheet](../files/Example_samples
 
 ## Example of additional parameters
 
-![](../images/Additional_parameters.png)
+![](images/Additional_parameters.png)
 
 # Outputs 
 The full output documentation can be found [here](https://nf-co.re/rnaseq/3.14.0/docs/output/). 
